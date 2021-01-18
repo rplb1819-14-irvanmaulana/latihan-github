@@ -5,6 +5,7 @@ RENCANA KONTEN QPU
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur Data Dasar
 - Interview
 - Vlogs
