@@ -3,7 +3,10 @@ RENCANA KONTEN QPU
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - Php Frameworks
+    ^ Laravel
 - Interview
 - Vlogs
+- Python
