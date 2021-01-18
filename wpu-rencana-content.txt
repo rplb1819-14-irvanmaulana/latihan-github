@@ -6,8 +6,6 @@ RENCANA KONTEN QPU
     ^ Vue
     ^ React
 - Struktur Data Dasar
-- Php Frameworks
-    ^ Laravel
 - Interview
 - Vlogs
 - Python
