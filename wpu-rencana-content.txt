@@ -3,6 +3,7 @@ RENCANA KONTEN QPU
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - Php Frameworks
 - Interview
 - Vlogs
